@@ -14,7 +14,7 @@ RF06: Permitir a pré-visualização do currículo antes de finalizar.
 
 RF07: Permitir exportar currículo no formato desejado.
 
-RF08: Permitir que o usuário baixe o currículo gerado
+RF08: Permitir que o usuário baixe o currículo gerado.
 
 ## Requisitos Não Funcionais (RNF)
 
